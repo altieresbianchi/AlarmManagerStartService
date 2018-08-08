@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AlarmManagerStartService</string>
+
+    <string name="msg_start_app_info">iniciando serviço com AlarmManager</string>
+    <string name="msg_start_service_on_create">Iniciando onCreate MyIntentService</string>
+    <string name="msg_start_service_on_handle_intent">Iniciando onHandleIntent MyIntentService</string>
+
+    <!-- LABEL -->
+    <string name="label_progress">Progresso</string>
+    <string name="label_message">Mensagem</string>
+    <string name="label_finished">Finalizado</string>
+
+    <!-- BTN -->
+    <string name="btn_start_service">Iniciar Serviço</string>
+    <string name="btn_stop_service">Parar Serviço</string>
+</resources>
